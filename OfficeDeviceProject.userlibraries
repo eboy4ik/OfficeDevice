@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="servlet-api">
+    <archive path="C:/Program Files/Apache Software Foundation/apache-tomcat-9.0.90/lib/servlet-api.jar" />
+  </library>
+  <library name="jstl-1.2">
+    <archive path="C:/YandexDisk/YandexDisk/Учёба/5 семестр/УПП/jstl-1.2.jar" />
+  </library>
+  <library name="ojdbc6">
+    <archive path="C:/YandexDisk/YandexDisk/Учёба/5 семестр/УПП/ojdbc6.jar" />
+  </library>
+</eclipse-userlibraries>
+
